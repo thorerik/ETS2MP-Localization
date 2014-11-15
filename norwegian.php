@@ -85,3 +85,4 @@ $_lang["topic"] = "Emne";
 $_lang["contact.message.too.short"] = "Meldingen er for kort. Minst 10 tegn.";
 $_lang["contact.topic.too.short"] = "Emne er for kort. Minst 10 tegn.";
 $_lang["invalid.mail.forgot.password"] = "Vi kunne desverre ikke finne noen konto med denne eposten.";
+$_lang["error.cannot.fetch.steam.api"] = "Kunne ikke hente din Steam profil. Vennligst forsøk igjen senere.";
